@@ -1,7 +1,7 @@
 {
     "id": "starship",
     "name": "Starship Prompt",
-    "version": "1.23.0",
+    "version": "0.0.1",
     "description": "Starship is fast and highly customizable cross-shell prompt that can display contextual information.",
     "options": {
         "version": {
