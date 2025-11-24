@@ -3,6 +3,7 @@
   "name": "PostgreSQL Client",
   "version": "0.0.1",
   "description": "PostgreSQL Client is the PostgreSQL interactive terminal.",
+  "documentationURL": "https://github.com/devcontainers-features/collection/tree/main/src/postgresql-client",
   "options": {},
   "installsAfter": [
     "ghcr.io/devcontainers/features/common-utils"

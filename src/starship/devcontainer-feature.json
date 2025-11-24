@@ -3,6 +3,7 @@
     "name": "Starship Prompt",
     "version": "0.0.1",
     "description": "Starship is fast and highly customizable cross-shell prompt that can display contextual information.",
+    "documentationURL": "https://github.com/devcontainers-features/collection/tree/main/src/starship",
     "options": {
         "version": {
             "description": "Select the version to install.",

@@ -3,6 +3,7 @@
   "name": "Atlas",
   "version": "0.0.1",
   "description": "Manage your database schema as code.",
+  "documentationURL": "https://github.com/devcontainers-features/collection/tree/main/src/atlas",
   "options": {
     "version": {
       "description": "Select the version to install.",
