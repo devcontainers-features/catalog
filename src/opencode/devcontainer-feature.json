@@ -1,0 +1,17 @@
+{
+  "id": "opencode",
+  "name": "OpenCode",
+  "version": "0.0.1",
+  "description": "The open source coding agent.",
+  "documentationURL": "https://github.com/devcontainers-features/collection/tree/main/src/opencode",
+  "options": {
+    "version": {
+      "description": "Select the version to install.",
+      "type": "string",
+      "default": "latest"
+    }
+  },
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
