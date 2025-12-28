@@ -15,6 +15,7 @@ jobs:
           - atlas
           - starship
           - opencode
+          - nvim
         baseImage:
           - debian:latest
           - ubuntu:latest
@@ -34,6 +35,7 @@ jobs:
           - atlas
           - starship
           - opencode
+          - nvim
     steps:
       - uses: actions/checkout@v4
       - name: "Install latest devcontainer CLI"
